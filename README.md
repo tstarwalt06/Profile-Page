@@ -11,7 +11,7 @@ A clean, professional profile page built with semantic HTML5. Includes sections 
 - Responsive layout and profile image
 
 ## Screenshot
-![Profile page screenshot](screenshot.png)
+![Profile page screenshot](image.png)
 
 ## Live Site
 GitHub Pages: (add your published link here)
