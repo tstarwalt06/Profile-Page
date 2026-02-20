@@ -14,4 +14,4 @@ A clean, professional profile page built with semantic HTML5. Includes sections 
 ![Profile page screenshot](images/screenshot.png)
 
 ## Live Site
-GitHub Pages: (add your published link here)
+GitHub Pages: [(My Profile Page)](https://tstarwalt06.github.io/Profile-Page/)
